@@ -1,4 +1,4 @@
-let animal = {
+/* let animal = {
   eats: true
 }
 
@@ -18,4 +18,4 @@ alert(rabbit.eats)
 
 alert(nature.live)
 alert(nature.eats)
-
+ */
